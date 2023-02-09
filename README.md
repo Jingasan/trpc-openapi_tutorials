@@ -1,6 +1,4 @@
-# trpc-openapi_tutorials
-
-trpc-openapiのチュートリアルコード
+# trpc-openapiのチュートリアルコード
 
 trpcを利用したTODOアプリを実装。OpenAPIでAPI仕様書を作成。
 
