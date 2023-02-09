@@ -2,11 +2,9 @@
 
 trpc-openapiのチュートリアルコード
 
-trpcを利用したTODOアプリを実装。
-OpenAPIでAPI仕様書を作成。
+trpcを利用したTODOアプリを実装。OpenAPIでAPI仕様書を作成。
 
-サーバーサイド：Expressを使用
-クライアントサイド：Reactを使用
+サーバーサイド：Expressを使用／クライアントサイド：Reactを使用
 
 ## 動作確認方法
 
